@@ -44,7 +44,7 @@ namespace _01.BinaryGap
             // find the longest sequence of zeros in the array
             int longestSequence = zerosArray.OrderByDescending(x => x.Length).First().Length;
 
-            return Convert.ToInt32(longestSequence);
+            return longestSequence;
         }
     }
 }
