@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BinaryGap", "01.BinaryGa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.CyclicRotation", "02.CyclicRotation\02.CyclicRotation.csproj", "{7AC16E10-3BF2-41F3-9A5A-1CBA5D04010E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.OddOccurrencesInArray", "03.OddOccurrencesInArray\03.OddOccurrencesInArray.csproj", "{187164B2-105B-46D4-B318-2E7C5531B66C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.OddOccurrencesInArray", "03.OddOccurrencesInArray\03.OddOccurrencesInArray.csproj", "{187164B2-105B-46D4-B318-2E7C5531B66C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FrogJmp", "04.FrogJmp\04.FrogJmp.csproj", "{C2D36E32-43DD-41D4-92C6-2C505DFFEDD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FrogJmp", "04.FrogJmp\04.FrogJmp.csproj", "{C2D36E32-43DD-41D4-92C6-2C505DFFEDD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.PermMissingElem", "05.PermMissingElem\05.PermMissingElem.csproj", "{FD8E8E7F-DF87-47F4-8651-B67527D228D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.PermMissingElem", "05.PermMissingElem\05.PermMissingElem.csproj", "{FD8E8E7F-DF87-47F4-8651-B67527D228D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TapeEquilibrium", "06.TapeEquilibrium\06.TapeEquilibrium.csproj", "{57BC125F-E619-434D-9E50-52E57FFBDC4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FD8E8E7F-DF87-47F4-8651-B67527D228D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD8E8E7F-DF87-47F4-8651-B67527D228D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD8E8E7F-DF87-47F4-8651-B67527D228D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BC125F-E619-434D-9E50-52E57FFBDC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BC125F-E619-434D-9E50-52E57FFBDC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BC125F-E619-434D-9E50-52E57FFBDC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BC125F-E619-434D-9E50-52E57FFBDC4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
