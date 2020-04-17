@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.TapeEquilibrium", "06.Ta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.FrogRiverOne", "07.FrogRiverOne\07.FrogRiverOne.csproj", "{C07C15D3-6B07-46FC-A3C8-C54AECFF6BAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.PermCheck", "08.PermCheck\08.PermCheck.csproj", "{7DC019B0-4889-4274-9133-F1CE757AD152}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.PermCheck", "08.PermCheck\08.PermCheck.csproj", "{7DC019B0-4889-4274-9133-F1CE757AD152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.MissingInteger", "09.MissingInteger\09.MissingInteger.csproj", "{3414F36D-9D06-4C4F-A188-8F8ACCB55E86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{7DC019B0-4889-4274-9133-F1CE757AD152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DC019B0-4889-4274-9133-F1CE757AD152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DC019B0-4889-4274-9133-F1CE757AD152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3414F36D-9D06-4C4F-A188-8F8ACCB55E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3414F36D-9D06-4C4F-A188-8F8ACCB55E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3414F36D-9D06-4C4F-A188-8F8ACCB55E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3414F36D-9D06-4C4F-A188-8F8ACCB55E86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
