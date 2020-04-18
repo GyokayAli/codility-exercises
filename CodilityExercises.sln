@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.FrogRiverOne", "07.FrogR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.PermCheck", "08.PermCheck\08.PermCheck.csproj", "{7DC019B0-4889-4274-9133-F1CE757AD152}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.MissingInteger", "09.MissingInteger\09.MissingInteger.csproj", "{3414F36D-9D06-4C4F-A188-8F8ACCB55E86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.MissingInteger", "09.MissingInteger\09.MissingInteger.csproj", "{3414F36D-9D06-4C4F-A188-8F8ACCB55E86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.MaxCounters", "10.MaxCounters\10.MaxCounters.csproj", "{96B0A5DA-FAD8-48E9-B3A7-CADF870F4F22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.MaxCounters", "10.MaxCounters\10.MaxCounters.csproj", "{96B0A5DA-FAD8-48E9-B3A7-CADF870F4F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.CountDiv", "11.CountDiv\11.CountDiv.csproj", "{8AA7CE1F-4615-4732-8015-ECDC9B4A63FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{96B0A5DA-FAD8-48E9-B3A7-CADF870F4F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96B0A5DA-FAD8-48E9-B3A7-CADF870F4F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96B0A5DA-FAD8-48E9-B3A7-CADF870F4F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA7CE1F-4615-4732-8015-ECDC9B4A63FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA7CE1F-4615-4732-8015-ECDC9B4A63FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA7CE1F-4615-4732-8015-ECDC9B4A63FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA7CE1F-4615-4732-8015-ECDC9B4A63FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
